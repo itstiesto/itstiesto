@@ -16,7 +16,7 @@ I'm a final-year engineering student with a passion for full-stack development, 
 
 ## Some of My GitHub Stats
 
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
+![Saurabh's GitHub stats](https://github.com/itstiesto)
 
 ## Technologies & Tools
 
@@ -27,9 +27,8 @@ I'm a final-year engineering student with a passion for full-stack development, 
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourLinkedInUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourTwitterHandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00457C?style=flat-square&logoColor=white)](https://www.your-portfolio-site.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itstiesto/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/sauravv_codes)
 
 ## Fun Corner!
 
