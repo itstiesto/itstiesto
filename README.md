@@ -1,35 +1,36 @@
-# Hello, world! 👋 I'm Saurabh Mishra
+<h1 align="center">Hi 👋, I'm Ashraya</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-![Banner](https://via.placeholder.com/850x150) <!-- You can put a URL of your banner image here; make sure it's hosted online -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrayaa&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayaa" /> </p>
 
-## About Me
 
-I'm a final-year engineering student with a passion for full-stack development, cybersecurity, and blockchain technology. Driven by curiosity, I love diving into new challenges and learning new technologies.
+- 👨‍💻 All of my projects are available at [https://ashrayaprofile.netlify.app/](https://ashrayaprofile.netlify.app/)
 
-- 🔭 I’m currently working on my capstone project about cybersecurity.
-- 🌱 I’m currently learning advanced JavaScript frameworks.
-- 👯 I’m looking to collaborate on open-source security projects.
-- 💬 Ask me about anything tech-related, and I'm happy to discuss.
-- 📫 How to reach me: [email](mailto:your-email@example.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under 5 minutes.
+- 📝 I regularly write articles on [https://medium.com/@mailtoashrayaa](https://medium.com/@mailtoashrayaa)
 
-## Some of My GitHub Stats
+- 💬 Ask me about **JS, ReactJS, and CSS frameworks**
 
-![Saurabh's GitHub stats](https://github.com/itstiesto)
+- 📫 How to reach me **mailtoashrayaa@gmail.com**
 
-## Technologies & Tools
+- 📄 Know about my experiences [Download resume from here](https://ashrayaprofile.netlify.app/)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technology-Blockchain-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ashrayakk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashrayakk/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aashrayadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aashrayadev/" height="30" width="40" /></a>
+<a href="https://medium.com/@mailtoashrayaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mailtoashrayaa" height="30" width="40" /></a>
+</p>
 
-## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itstiesto/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/sauravv_codes)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashrayaa&layout=compact&theme=transparent&show_icons=true&count_private=true&include_all_commits=true" alt="Ashrayaa" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrayaa&theme=transparent&include_all_commits=true" />
 
-## Fun Corner!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)  <!-- This API displays random dev jokes -->
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Ashrayaa&layout=compact&theme=flat&column=4&row=1)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ashrayaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashrayaa" /></a></p><br><br>
+
