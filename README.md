@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saurabh Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrayaa&label=Profile%20views&color=0e75b6&style=flat" alt="Saurabh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itstiesto&label=Profile%20views&color=0e75b6&style=flat" alt="Saurabh" /> </p>
 
-
-- 👨‍💻 All of my projects are available at [https://ashrayaprofile.netlify.app/](https://ashrayaprofile.netlify.app/)
 
 - 📝 I regularly write articles on [https://tiesto.hashnode.dev/](https://tiesto.hashnode.dev/)
 
